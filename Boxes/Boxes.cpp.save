@@ -1,0 +1,30 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    
+    int N;
+    int w, l, h;
+    cin >> N;
+    cin >> w >> l >> h;
+    
+    int W, L, H;
+    int maxN;
+    int maxW, maxL, maxH;
+    
+       
+    
+    
+    int area;
+    //area = 2*(W*L + L*H + W*H);
+    //cout << area;
+    
+    
+  
+    return 0;
+}
